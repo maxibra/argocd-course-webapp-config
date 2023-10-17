@@ -8,7 +8,7 @@ image:
   repository: maxibra /argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 6069344a2acfe3918ec05e24fbd7a30eab829968
 
 imagePullSecrets: []
 nameOverride: ""
