@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: maxibra /argocd-course-webapp
+  repository: maxib/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 0a7736d459d70faa5e31264f23bc0b34010c2688
